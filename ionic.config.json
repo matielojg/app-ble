@@ -1,0 +1,8 @@
+{
+  "name": "app-ble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "16daffab"
+}
